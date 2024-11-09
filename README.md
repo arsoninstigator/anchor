@@ -1,6 +1,7 @@
 # anchor ysws — vtuber logo (for high seas)
 attended acon's tutorial on 08/11 and designed along her to make a personal vtuber-style logo for #anchor ysws
-![image](https://github.com/user-attachments/assets/384aff54-bf6e-4d57-992d-fb139869e737)
+![image](https://github.com/user-attachments/assets/c8eef570-278d-4eea-b5bc-47720b82fe25)
+
 
 ## what we used <br>
     - figma desktop
