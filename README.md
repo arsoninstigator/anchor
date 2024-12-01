@@ -9,20 +9,20 @@ attended acon's tutorial on 08/11 and designed along her to make a personal vtub
 
 ## myname > version zero + version one
 version zero and version one has nothing fancy - <br>
-    - my ~real~ name in a single color <br>
+    - my ~ real ~ name in a single color <br>
     - icons from the figma library <br>
 
 ## myname > version two
 version two has the following - <br>
-    - my ~real~ name in a colorful gradient <br>
+    - my ~ real ~ name in a colorful gradient <br>
 
 ## myname > version three
 version three will have the following - <br>
-    - my ~real~ name in a colorful gradient <br>
+    - my ~ real ~ name in a colorful gradient <br>
     - cute(r) icons that are custom made using the pen tool <br>
     - my website / github username <br> 
 
-## arsoninstigator
+## username
 a logo with my github username / online persona <br>
     - my username <br>
     - icons from the figma library <br>
