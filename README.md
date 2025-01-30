@@ -3,6 +3,8 @@ i attended acon's tutorial on 08/11 and designed along her to make a personal vt
 then i kept making more since doing it was fun and i like messing around w colors.
 <img width="749" alt="image" src="username/v4.png">
 
+**update for v2:** i made more stickers and added them to the repo folders. you can find them on figma [here](https://www.figma.com/design/YmZ5PFTXRtCSFVWRG6Ttz2/dessert?t=grFkeZGv6Ir9uPId-1) and [here](https://www.figma.com/design/x1UvVU2K9RZPRD2LDXoWWN/anchor-v2?t=grFkeZGv6Ir9uPId-1)
+
 ## what we used <br>
     - figma desktop
     - font installer + yuruka font
